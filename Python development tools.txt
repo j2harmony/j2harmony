@@ -1,0 +1,6 @@
+Python development tools
+
+https://digtvbg.com/files/books-for-hacking/A%20Smarter%20Way%20to%20Learn%20Python%20-%20Learn%20it%20faster.%20Remember%20it%20longer.%20by%20Mark%20Myers.pdf
+
+https://www.python.org/downloads/
+
